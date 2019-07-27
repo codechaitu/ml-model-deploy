@@ -4,6 +4,8 @@
     <list default="true" id="5fc95f9f-6c57-4618-8ed5-e8cc4fdae799" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Let-her-ask-for-lunch-chatbot/slackbot_settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Let-her-ask-for-lunch-chatbot/slackbot_settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Let-her-ask-for-lunch-interactivebot/config/slack_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Let-her-ask-for-lunch-interactivebot/config/slack_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,16 +27,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -108,12 +110,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564204874540</updated>
-      <workItem from="1564204878779" duration="1372000" />
+      <workItem from="1564204878779" duration="1619000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1372000" />
+    <option name="totallyTimeSpent" value="1619000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="840" height="1027" extended-state="0" />
@@ -145,13 +147,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -166,6 +161,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="35" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
